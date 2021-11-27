@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e129599f.chunk.css",
+    "main.js": "/static/js/main.9a966e6e.chunk.js",
+    "main.js.map": "/static/js/main.9a966e6e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f94cfbb1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f94cfbb1.js.map",
+    "static/css/2.16b49419.chunk.css": "/static/css/2.16b49419.chunk.css",
+    "static/js/2.446e7595.chunk.js": "/static/js/2.446e7595.chunk.js",
+    "static/js/2.446e7595.chunk.js.map": "/static/js/2.446e7595.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.16b49419.chunk.css.map": "/static/css/2.16b49419.chunk.css.map",
+    "static/css/main.e129599f.chunk.css.map": "/static/css/main.e129599f.chunk.css.map",
+    "static/js/2.446e7595.chunk.js.LICENSE.txt": "/static/js/2.446e7595.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/karla-latin-ext-400-normal.dc678fe6.woff2",
+    "static/media/meme-face.041f417d.png": "/static/media/meme-face.041f417d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f94cfbb1.js",
+    "static/css/2.16b49419.chunk.css",
+    "static/js/2.446e7595.chunk.js",
+    "static/css/main.e129599f.chunk.css",
+    "static/js/main.9a966e6e.chunk.js"
+  ]
+}
